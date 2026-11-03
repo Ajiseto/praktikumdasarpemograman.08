@@ -311,8 +311,8 @@ public class penilaiankelompoko1 {
 
 ```
 #### 2.2.2 Execution Result / Screenshot Output
-![Case study results](<Screenshot 2026-11-03 230342.png>)
-![Case study results](<Screenshot 2026-11-03 230427.png>)
+![Case study results](<Screenshot 2026-11-03 230342.png>)![Case study results](<Screenshot 2026-11-03 230427.png>)
+
 #### 2.2.3 Answers to Questions / Reflection Questions
 1. Why must totalScore be reset inside the outer loop, but highestAverage must not
 be reset for each group?
@@ -391,8 +391,7 @@ public class tugas01 {
 }
 ```
 #### 3.1.2 Execution Result / Screenshot Output
-
-
+![case study result](<Screenshot 2026-11-03 234123.png>)
 
 #### Task 2: 
 
@@ -435,7 +434,8 @@ public class Tugas02 {
     }
 }
 ```
-
+#### 3.1.2 Execution Result / Screenshot Output
+![case study result](<Screenshot 2026-11-03 234137.png>)
 
 #### 3.2.1 Program Code Java
 ```java
@@ -526,7 +526,7 @@ public class Tugas03 {
 
 #### 3.1.2 Execution Result / Screenshot Output
 
-
+![case study result](<Screenshot 2026-11-03 234228.png>)
 ---
 
 
